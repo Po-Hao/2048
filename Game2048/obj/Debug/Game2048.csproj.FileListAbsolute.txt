@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.GameBox.resources
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\ASUS\Desktop\C#課程\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
